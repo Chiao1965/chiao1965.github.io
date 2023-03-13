@@ -41,6 +41,12 @@ header li{
     font-weight: 500;
     line-height: 1.5;
 }
+#intro h3{
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 70px;
+    color: rgb(30, 73, 121);
+}
 #intro h4{
     font-size: 20px;
     /* line-height: 1.5; */
@@ -88,6 +94,11 @@ header li{
     border-radius: 5px;
     margin-bottom: 10px;
 }
+#second h2{
+    line-height: 1.5;
+    margin-bottom: 80px;
+    color: rgb(30, 73, 121);
+}
 #second h3{
     font-size: 36px;
     line-height: 1.5;
@@ -124,14 +135,18 @@ header li{
     /* background-color: rgb(221, 222, 223); */
     /* background-color: rgb(248, 178, 178); */
 }
+#latest h2{
+    line-height: 1.5;
+    margin-bottom: 80px;
+    color: rgb(30, 73, 121);
+}
 #latest h4{
     margin-bottom: 30px;
 }
 #latest img{
     width: 100%;
     border-radius: 5px;
-    margin-bottom: 50px;
-
+    margin-bottom: 60px;
 }
 #latest .upper{
     position: relative;
