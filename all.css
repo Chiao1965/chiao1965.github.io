@@ -49,13 +49,13 @@ header li{
 }
 #intro h4{
     font-size: 20px;
-    /* line-height: 1.5; */
 }
 #intro .container{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100%;
+    padding-top: 100px;
 }
 #intro img{
     width: 100%;
@@ -146,7 +146,7 @@ header li{
 #latest img{
     width: 100%;
     border-radius: 5px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
 }
 #latest .upper{
     position: relative;
